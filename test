@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="测试频道",台视新闻
+https://live.wcetv.com/hls/master-ttvnews.m3u8
